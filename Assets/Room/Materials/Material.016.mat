@@ -16,7 +16,7 @@ Material:
   - _DOUBLESIDED_ON
   - _NORMALMAP_TANGENT_SPACE
   m_InvalidKeywords: []
-  m_LightmapFlags: 4
+  m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
   m_CustomRenderQueue: 2225
@@ -270,7 +270,7 @@ Material:
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &6931927064387596072
+--- !u!114 &9106652085735133424
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
